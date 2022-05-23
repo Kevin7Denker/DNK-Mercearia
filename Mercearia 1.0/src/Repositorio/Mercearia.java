@@ -76,9 +76,7 @@ public class Mercearia {
     
   }
   
-  // perdao, mas a falta de tempo me fez fazer essa gambiarra, assisti todas as aulas e nao achei a atividade muito dificil
-  // foi uma superacao fazer tranquilo com o tempo que tive, peco que entenda e considere o C, por ter tentado 
-
+  //Gambiarra
   
   public float valorGranel(String tipo){
     float soma = 0;
