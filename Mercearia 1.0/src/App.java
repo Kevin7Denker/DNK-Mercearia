@@ -54,6 +54,7 @@ public class App {
         System.out.println("Digite o Nome do Produto");
             nome = scan.nextLine();
           
+          
         System.out.println("Digite a descricao do Produto");
             descricao = scan.nextLine();
           
